@@ -19,10 +19,6 @@
     "watch:browsersync": "browser-sync start --server --files \"css/*.css\" \"*.html\"",
     "watch:sassprefixer": "onchange sass/*.scss -- npm run build-dev"
   },
-  /**"repository": {
-    "type": "git",
-    "url": "git+https://github.com/Wiktortk/taskrunner.git"
-  },**/
   "keywords": [],
   "author": "",
   "license": "ISC",
